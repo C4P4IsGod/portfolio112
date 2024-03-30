@@ -68,7 +68,7 @@ const moocscards = [
   },
 ];
 
-const experience = [
+const  = [
   {
     img: "assets/images/education-page/c1.png",
   },
@@ -94,15 +94,15 @@ const prevBtn = document.querySelector("#prevBtn");
 const nextBtn = document.querySelector("#nextBtn");
 
 window.addEventListener("DOMContentLoaded", function () {
-  showExperience();
+  show();
 });
 
-function showExperience() {
+function show() {
   setInterval(function () {
-    if (currentItem === experience.length) {
+    if (currentItem === .length) {
       currentItem = 0;
     }
-    const item = experience[currentItem];
+    const item = [currentItem];
     img.src = item.img;
     currentItem++;
   }, 3000);
