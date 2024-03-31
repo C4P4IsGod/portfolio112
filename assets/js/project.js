@@ -14,24 +14,6 @@ const projects = [
     previewLink: "https://en.hurawatch-official.com/movies/gran-turismo-2023-idvc100",
     githubLink: "https://github.com/example/greatsword"
   },
-  {
-    title: "Lava Golem",
-    cardImage: "https://media.discordapp.net/attachments/1220988174633795584/1221043501123239956/image.png?ex=66112460&is=65feaf60&hm=3dfffb1dbad413f9b71b4bf11b2d66d0b5781d582b647177fdca5e7293c33e9e&=&format=webp&quality=lossless&width=390&height=509",
-    category: "Game Development",
-    description: "A legendary sword only to be found by luckiest player of them all.",
-    technologies: ["Substance Painter", "ZBrush", "3D Modeling"],
-    previewLink: "https://en.hurawatch-official.com/movies/gran-turismo-2023-idvc100",
-    githubLink: "https://github.com/example/greatsword"
-  },
-  {
-    title: "Greatsword",
-    cardImage: "https://media.discordapp.net/attachments/1220988174633795584/1221043501123239956/image.png?ex=66112460&is=65feaf60&hm=3dfffb1dbad413f9b71b4bf11b2d66d0b5781d582b647177fdca5e7293c33e9e&=&format=webp&quality=lossless&width=390&height=509",
-    category: "Game Development",
-    description: "A legendary sword only to be found by luckiest player of them all.",
-    technologies: ["Substance Painter", "ZBrush", "3D Modeling"],
-    previewLink: "https://en.hurawatch-official.com/movies/gran-turismo-2023-idvc100",
-    githubLink: "https://github.com/example/greatsword"
-  },
   // Add more projects here
 ];
 
