@@ -187,7 +187,7 @@ const projects = [
   },
     {
     title: "Pet 1",
-    cardImage: "",
+    cardImage: "https://media.discordapp.net/attachments/1210216074885341225/1224217614780338267/image.png?ex=661cb080&is=660a3b80&hm=2d4fb3ff67297912b1ccb50f31fdd4de50f14286f0a6be99d724cf57d00bc45e&=&format=webp&quality=lossless&width=585&height=512",
     category: "Game Development",
     description: "A legendary sword only to be found by luckiest player of them all.",
     technologies: ["Substance Painter", "ZBrush", "3D Modeling"],
@@ -196,7 +196,7 @@ const projects = [
   },
     {
     title: "Pet 2",
-    cardImage: "",
+    cardImage: "https://media.discordapp.net/attachments/1210216074885341225/1224217881517232198/image.png?ex=661cb0bf&is=660a3bbf&hm=fdff2bf267570c425c5c47b6f34ad7d073b581992e345a7023a06245694228ed&=&format=webp&quality=lossless&width=338&height=313",
     category: "Game Development",
     description: "A legendary sword only to be found by luckiest player of them all.",
     technologies: ["Substance Painter", "ZBrush", "3D Modeling"],
@@ -341,6 +341,42 @@ const projects = [
   {
     title: "Crystal Blade",
     cardImage: "https://media.discordapp.net/attachments/1204243917650927728/1220848249934712962/Screenshot_2023-12-18_032811-1.png?ex=6619a909&is=66073409&hm=690a876c2c8545a48c76c7f6a72b2d6e81064e14ace21a8418cf79eb278a924e&=&format=webp&quality=lossless&width=326&height=590",
+    category: "Game Development",
+    description: "A legendary sword only to be found by luckiest player of them all.",
+    technologies: ["Substance Painter", "ZBrush", "3D Modeling"],
+    previewLink: "https://en.hurawatch-official.com/movies/gran-turismo-2023-idvc100",
+    githubLink: ""
+  },
+  {
+    title: "House 1",
+    cardImage: "",
+    category: "Game Development",
+    description: "A legendary sword only to be found by luckiest player of them all.",
+    technologies: ["Substance Painter", "ZBrush", "3D Modeling"],
+    previewLink: "https://en.hurawatch-official.com/movies/gran-turismo-2023-idvc100",
+    githubLink: ""
+  },
+  {
+    title: "House 2",
+    cardImage: "",
+    category: "Game Development",
+    description: "A legendary sword only to be found by luckiest player of them all.",
+    technologies: ["Substance Painter", "ZBrush", "3D Modeling"],
+    previewLink: "https://en.hurawatch-official.com/movies/gran-turismo-2023-idvc100",
+    githubLink: ""
+  },
+  {
+    title: "Tree 1",
+    cardImage: "",
+    category: "Game Development",
+    description: "A legendary sword only to be found by luckiest player of them all.",
+    technologies: ["Substance Painter", "ZBrush", "3D Modeling"],
+    previewLink: "https://en.hurawatch-official.com/movies/gran-turismo-2023-idvc100",
+    githubLink: ""
+  },
+  {
+    title: "Tree 2",
+    cardImage: "",
     category: "Game Development",
     description: "A legendary sword only to be found by luckiest player of them all.",
     technologies: ["Substance Painter", "ZBrush", "3D Modeling"],
