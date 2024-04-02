@@ -178,7 +178,7 @@ const projects = [
   },
   {
     title: "M4A4",
-    cardImage: "",
+    cardImage: "https://media.discordapp.net/attachments/1210180199229161482/1224555756242862080/image.png?ex=661deb6b&is=660b766b&hm=6347a0a30396447c6ae54d48074ed438f59564f187d79d98cb1bc4025f6244a6&=&format=webp&quality=lossless&width=582&height=466",
     category: "Game Development",
     description: "A legendary sword only to be found by luckiest player of them all.",
     technologies: ["Substance Painter", "ZBrush", "3D Modeling"],
@@ -394,7 +394,7 @@ const projects = [
   },
   {
     title: "Kunai 1",
-    cardImage: "",
+    cardImage: "https://media.discordapp.net/attachments/1210180199229161482/1224554465944801351/image.png?ex=661dea37&is=660b7537&hm=4c4f2e30c74bc561551e294be2b07bd979a104eb2a5ab7828aaa9c40c1196853&=&format=webp&quality=lossless&width=453&height=591",
     category: "Game Development",
     description: "A legendary sword only to be found by luckiest player of them all.",
     technologies: ["Substance Painter", "ZBrush", "3D Modeling"],
@@ -421,7 +421,7 @@ const projects = [
   },
   {
     title: "Berserk Sword",
-    cardImage: "",
+    cardImage: "https://media.discordapp.net/attachments/1210180199229161482/1224573150528933958/image.png?ex=661dfb9e&is=660b869e&hm=e75f025a5d3067b698ad2f701b95ed122795ec5edf4373f96eb7b9829bbcbe2f&=&format=webp&quality=lossless&width=607&height=476",
     category: "Game Development",
     description: "A legendary sword only to be found by luckiest player of them all.",
     technologies: ["Substance Painter", "ZBrush", "3D Modeling"],
@@ -438,8 +438,8 @@ const projects = [
     githubLink: ""
   },
   {
-    title: "Gaara Gorge",
-    cardImage: "",
+    title: "Gaara Gorge (TUTORIAL)",
+    cardImage: "https://media.discordapp.net/attachments/1210180199229161482/1224563754813882448/image.png?ex=661df2de&is=660b7dde&hm=fbb426119de7e5f49298e680a2c6e5297dab310675a125ca073f3a27db38b0fd&=&format=webp&quality=lossless&width=404&height=431",
     category: "Game Development",
     description: "A legendary sword only to be found by luckiest player of them all.",
     technologies: ["Substance Painter", "ZBrush", "3D Modeling"],
@@ -448,6 +448,24 @@ const projects = [
   },
   {
     title: "Crown",
+    cardImage: "https://media.discordapp.net/attachments/1210180199229161482/1224565023192649801/image.png?ex=661df40c&is=660b7f0c&hm=632d60eafbc933f26e968c9d00d4e72f5fabcd4ad29020e0a4607c4947962d95&=&format=webp&quality=lossless&width=409&height=295",
+    category: "Game Development",
+    description: "A legendary sword only to be found by luckiest player of them all.",
+    technologies: ["Substance Painter", "ZBrush", "3D Modeling"],
+    previewLink: "https://en.hurawatch-official.com/movies/gran-turismo-2023-idvc100",
+    githubLink: ""
+  },
+  {
+    title: "Glock",
+    cardImage: "https://media.discordapp.net/attachments/1210180199229161482/1224559024192749629/image.png?ex=661dee76&is=660b7976&hm=09e26743eb99364dfe3817f0fd97b28f95627b2d61cb1260be07db99bd47eb55&=&format=webp&quality=lossless&width=520&height=393",
+    category: "Game Development",
+    description: "A legendary sword only to be found by luckiest player of them all.",
+    technologies: ["Substance Painter", "ZBrush", "3D Modeling"],
+    previewLink: "https://en.hurawatch-official.com/movies/gran-turismo-2023-idvc100",
+    githubLink: ""
+  },
+  {
+    title: "AR",
     cardImage: "",
     category: "Game Development",
     description: "A legendary sword only to be found by luckiest player of them all.",
@@ -456,25 +474,7 @@ const projects = [
     githubLink: ""
   },
   {
-    title: "Gun",
-    cardImage: "",
-    category: "Game Development",
-    description: "A legendary sword only to be found by luckiest player of them all.",
-    technologies: ["Substance Painter", "ZBrush", "3D Modeling"],
-    previewLink: "https://en.hurawatch-official.com/movies/gran-turismo-2023-idvc100",
-    githubLink: ""
-  },
-  {
-    title: "Gun",
-    cardImage: "",
-    category: "Game Development",
-    description: "A legendary sword only to be found by luckiest player of them all.",
-    technologies: ["Substance Painter", "ZBrush", "3D Modeling"],
-    previewLink: "https://en.hurawatch-official.com/movies/gran-turismo-2023-idvc100",
-    githubLink: ""
-  },
-  {
-    title: "Gun",
+    title: "MWII Intervention",
     cardImage: "",
     category: "Game Development",
     description: "A legendary sword only to be found by luckiest player of them all.",
