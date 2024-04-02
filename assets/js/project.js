@@ -383,6 +383,141 @@ const projects = [
     previewLink: "https://en.hurawatch-official.com/movies/gran-turismo-2023-idvc100",
     githubLink: ""
   },
+  {
+    title: "Scythe",
+    cardImage: "",
+    category: "Game Development",
+    description: "A legendary sword only to be found by luckiest player of them all.",
+    technologies: ["Substance Painter", "ZBrush", "3D Modeling"],
+    previewLink: "https://en.hurawatch-official.com/movies/gran-turismo-2023-idvc100",
+    githubLink: ""
+  },
+  {
+    title: "Kunai 1",
+    cardImage: "",
+    category: "Game Development",
+    description: "A legendary sword only to be found by luckiest player of them all.",
+    technologies: ["Substance Painter", "ZBrush", "3D Modeling"],
+    previewLink: "https://en.hurawatch-official.com/movies/gran-turismo-2023-idvc100",
+    githubLink: ""
+  },
+  {
+    title: "Kunai 2",
+    cardImage: "",
+    category: "Game Development",
+    description: "A legendary sword only to be found by luckiest player of them all.",
+    technologies: ["Substance Painter", "ZBrush", "3D Modeling"],
+    previewLink: "https://en.hurawatch-official.com/movies/gran-turismo-2023-idvc100",
+    githubLink: ""
+  },
+  {
+    title: "Kunai 3",
+    cardImage: "",
+    category: "Game Development",
+    description: "A legendary sword only to be found by luckiest player of them all.",
+    technologies: ["Substance Painter", "ZBrush", "3D Modeling"],
+    previewLink: "https://en.hurawatch-official.com/movies/gran-turismo-2023-idvc100",
+    githubLink: ""
+  },
+  {
+    title: "Berserk Sword",
+    cardImage: "",
+    category: "Game Development",
+    description: "A legendary sword only to be found by luckiest player of them all.",
+    technologies: ["Substance Painter", "ZBrush", "3D Modeling"],
+    previewLink: "https://en.hurawatch-official.com/movies/gran-turismo-2023-idvc100",
+    githubLink: ""
+  },
+  {
+    title: "Fullbring Zangetsu",
+    cardImage: "",
+    category: "Game Development",
+    description: "A legendary sword only to be found by luckiest player of them all.",
+    technologies: ["Substance Painter", "ZBrush", "3D Modeling"],
+    previewLink: "https://en.hurawatch-official.com/movies/gran-turismo-2023-idvc100",
+    githubLink: ""
+  },
+  {
+    title: "Gaara Gorge",
+    cardImage: "",
+    category: "Game Development",
+    description: "A legendary sword only to be found by luckiest player of them all.",
+    technologies: ["Substance Painter", "ZBrush", "3D Modeling"],
+    previewLink: "https://en.hurawatch-official.com/movies/gran-turismo-2023-idvc100",
+    githubLink: ""
+  },
+  {
+    title: "Crown",
+    cardImage: "",
+    category: "Game Development",
+    description: "A legendary sword only to be found by luckiest player of them all.",
+    technologies: ["Substance Painter", "ZBrush", "3D Modeling"],
+    previewLink: "https://en.hurawatch-official.com/movies/gran-turismo-2023-idvc100",
+    githubLink: ""
+  },
+  {
+    title: "Gun",
+    cardImage: "",
+    category: "Game Development",
+    description: "A legendary sword only to be found by luckiest player of them all.",
+    technologies: ["Substance Painter", "ZBrush", "3D Modeling"],
+    previewLink: "https://en.hurawatch-official.com/movies/gran-turismo-2023-idvc100",
+    githubLink: ""
+  },
+  {
+    title: "Gun",
+    cardImage: "",
+    category: "Game Development",
+    description: "A legendary sword only to be found by luckiest player of them all.",
+    technologies: ["Substance Painter", "ZBrush", "3D Modeling"],
+    previewLink: "https://en.hurawatch-official.com/movies/gran-turismo-2023-idvc100",
+    githubLink: ""
+  },
+  {
+    title: "Gun",
+    cardImage: "",
+    category: "Game Development",
+    description: "A legendary sword only to be found by luckiest player of them all.",
+    technologies: ["Substance Painter", "ZBrush", "3D Modeling"],
+    previewLink: "https://en.hurawatch-official.com/movies/gran-turismo-2023-idvc100",
+    githubLink: ""
+  },
+  {
+    title: "Gun",
+    cardImage: "",
+    category: "Game Development",
+    description: "A legendary sword only to be found by luckiest player of them all.",
+    technologies: ["Substance Painter", "ZBrush", "3D Modeling"],
+    previewLink: "https://en.hurawatch-official.com/movies/gran-turismo-2023-idvc100",
+    githubLink: ""
+  },
+  {
+    title: "Axe 1",
+    cardImage: "",
+    category: "Game Development",
+    description: "A legendary sword only to be found by luckiest player of them all.",
+    technologies: ["Substance Painter", "ZBrush", "3D Modeling"],
+    previewLink: "https://en.hurawatch-official.com/movies/gran-turismo-2023-idvc100",
+    githubLink: ""
+  },
+  {
+    title: "Axe 2",
+    cardImage: "",
+    category: "Game Development",
+    description: "A legendary sword only to be found by luckiest player of them all.",
+    technologies: ["Substance Painter", "ZBrush", "3D Modeling"],
+    previewLink: "https://en.hurawatch-official.com/movies/gran-turismo-2023-idvc100",
+    githubLink: ""
+  },
+  {
+    title: "Hat 1",
+    cardImage: "",
+    category: "Game Development",
+    description: "A legendary sword only to be found by luckiest player of them all.",
+    technologies: ["Substance Painter", "ZBrush", "3D Modeling"],
+    previewLink: "https://en.hurawatch-official.com/movies/gran-turismo-2023-idvc100",
+    githubLink: ""
+  },
   // Add more projects here
 ];
 
